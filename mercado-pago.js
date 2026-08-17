@@ -1,2 +1,3 @@
-const mercadoPago = "teste de branch mercado pago";
-console.log(mercadoPago);
+const mercadoPago = "Mercado pago";
+const mercado = "pagamento";
+console.log(mercadoPago, mercado);
