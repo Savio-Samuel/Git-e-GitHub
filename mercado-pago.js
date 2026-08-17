@@ -1,2 +1,4 @@
+const mercadoPago = "Mercado pago";
 const dev = "devedor";
-console.log(dev);
+const mercado = "pagamento";
+console.log(mercadoPago, dev, mercado);
